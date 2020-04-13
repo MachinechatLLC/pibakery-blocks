@@ -1,7 +1,7 @@
 {
-  "version": 3.5,
+  "version": 3.7,
   "compressedMD5": "6e9a5f6d6c1bd453b37510630626ad8a",
-  "downloadUrl": "https://github.com/MachinechatLLC/pibakery-blocks/archive/v0.3.6.zip",
+  "downloadUrl": "https://github.com/MachinechatLLC/pibakery-blocks/archive/v0.3.7.zip",
   "loadOrder": [
     "vncenable",
     "packageinstall",

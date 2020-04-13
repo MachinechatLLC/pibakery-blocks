@@ -404,6 +404,6 @@
 		"raspbian-pibakery.img",
 		"raspbian-lite-pibakery.img"
 	],
-	"shortDescription":"set timezone raspberry pi.",
-	"longDescription":"set timezone raspberry pi."
+	"shortDescription":"set system timezone raspberry pi.",
+	"longDescription":"set system timezone raspberry pi."
 }
