@@ -28,6 +28,7 @@
     "runpython",
     "deletefile",
     "reboot",
-    "shutdown"
+    "shutdown",
+    "settimezone"
   ]
 }
