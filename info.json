@@ -18,6 +18,7 @@
     "bootbehaviour",
     "changepass",
     "sethostname",
+    "settimezone",
     "newcronjob",
     "uartconsole",
     "setspi",
@@ -28,7 +29,6 @@
     "runpython",
     "deletefile",
     "reboot",
-    "shutdown",
-    "settimezone"
+    "shutdown"
   ]
 }
