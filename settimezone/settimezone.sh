@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo timedatectl set-timezone $1
+sudo timedatectl set-timezone "$1"
